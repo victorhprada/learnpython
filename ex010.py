@@ -1,5 +1,5 @@
-qd = int(input('Quantos dias o carro foi alugado: '))
-km = float(input('Quantos Km o carro rodou: '))
+qd = int(input('Quantos dias o carro foi alugado: '));
+km = float(input('Quantos Km o carro rodou: '));
 
 d = qd * 60
 kmt = km * 0.15
